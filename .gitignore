@@ -1,0 +1,4 @@
+# Ignore CSV files inside the data folder
+/data/*.csv
+# Ignore R scripts inside the analysis folder
+/analysis/*.R
