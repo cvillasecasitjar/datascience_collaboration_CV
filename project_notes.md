@@ -6,3 +6,4 @@ Is it raining?
 ## Team
 - Student name: analysis and visualisation
 - Student name: data documentation
+## Methods
